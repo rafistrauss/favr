@@ -7,12 +7,12 @@ require_once('functions.php');
 
 <head>
 <META NAME="author" CONTENT="Avi, Persin, avip2@msn.com">
-<link rel="stylesheet" href="css/forms.css">
-<link rel="stylesheet" href="css/stylesheet.css">
+<link rel="stylesheet" href="../../public/styles/forms.css">
+<link rel="stylesheet" href="../../public/styles/stylesheet.css">
 <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700'
 	rel='stylesheet' type='text/css'>
 <script src="http://code.jquery.com/jquery.min.js"></script>
-<script src="js/function.js"></script>
+<script src="../../public/scripts/function.js"></script>
 </head>
 <?php if(isset($_SESSION['loginid'])) {
 	?>
@@ -23,5 +23,5 @@ require_once('functions.php');
 }
 ?>
 <div style="width:15%;padding:1%">
-    <img style="width:100%" src="images/logo.jpg">
+    <img style="width:100%" src="../../public/images/logo.jpg">
 </div>

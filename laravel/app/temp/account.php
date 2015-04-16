@@ -1,8 +1,8 @@
 <?php
 ;
 include "header.php";
-require_once ('dbconnect.php');
-require_once ("functions.php");
+require_once('dbconnect.php');
+require_once("functions.php");
 
 $id = $_SESSION['loginid'];
 $query = "SELECT * from user where id = '$id'";

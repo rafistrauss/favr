@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="favr">
+    <serverData>
+      <paths name="favr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="favr" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
