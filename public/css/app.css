@@ -2693,7 +2693,6 @@ select[multiple].form-group-lg .form-control {
 }
 @media (min-width: 768px) {
   .form-horizontal .control-label {
-    text-align: right;
     margin-bottom: 0;
     padding-top: 7px;
   }
@@ -2723,8 +2722,6 @@ select[multiple].form-group-lg .form-control {
   background-image: none;
   border: 1px solid transparent;
   white-space: nowrap;
-  padding: 6px 12px;
-  font-size: 14px;
   line-height: 1.42857143;
   border-radius: 4px;
   -webkit-user-select: none;
@@ -6227,7 +6224,6 @@ button.close {
   }
 }
 body,
-label,
 .checkbox label {
   font-weight: 300;
 }
