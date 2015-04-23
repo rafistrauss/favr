@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "gulp": "^3.8.11",
+    "laravel-elixir": "*"
+  }
+}
